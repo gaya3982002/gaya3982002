@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
-<h3 align="center">MCA graduate looking to continuously learn new technologies, contribute to team goals, and grow into a skilled software developer.</h3>
+<h4 align="center">MCA graduate looking to continuously learn new technologies and grow into a skilled software developer.</h4>
 
 
-- 📫 How to reach me **gayathrimuraliclt09@gmail.com**
+How to reach me **gayathrimuraliclt09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
